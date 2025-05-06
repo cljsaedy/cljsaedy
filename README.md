@@ -1,16 +1,33 @@
-## Hi there 👋
+🎓 2nd Year Bachelor of Science in Information Technology student  
+📍 Based in the Philippines  
 
-<!--
-**cljsaedy/cljsaedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Expanding my knowledge in **[field you're focusing on, e.g. Cybersecurity, Web Development]**
+- Developing small-scale projects to build my technical portfolio
+- Learning industry-standard tools and best practices
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** Java, Python, Bash
+- **Database Management:** SQL
+- **Networking:** Cisco Networking Fundamentals
+- **Scripting:** Basic Linux Bash Scripting
+
+---
+
+## 📂 Projects
+
+*Additional projects and exercises are currently in progress and will be added soon.*
+
+---
+
+## 📫 Contact Information
+
+- **Email:** [ronaedriel.celajes@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/ron-celajes-6254b7364/]
+- **GitHub:** [https://github.com/cljsaedy]
